@@ -3,11 +3,7 @@ import './Display.css'
 
 
 function Display(props){
-
-
-
-
-
+    
     return(
         <div>
             <p className="steps-quantity">Ilość kroków: {props.sumSteps}</p>
